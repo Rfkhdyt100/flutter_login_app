@@ -5,7 +5,7 @@
 ### Ujian Tengah Semester (UTS)  
 
 **Nama**  : RIFKI HIDAYAT
-**Kelas** : 2D TRPL  
+**Kelas** : 2D TRPL
 **NIM**   : 2097
 **Matkul** : Pemrograman Web Bergerak 
 
@@ -15,15 +15,21 @@
 
 **halaman Register** : langkah awal pembuatan akun
 ![Screenshot 1](assets/image/Sc01.png)
+_______________________________________________________
 
 **halaman Login** : langkah untuk autentifikasi keamanan pengguna
 ![Screenshot 2](assets/image/Sc02.png)
+_______________________________________________________
 
 **halaman Home** : Tempat menampilkan Konten utama dan fitur yang tersedia
 ![Screenshot 3](assets/image/Sc03.png)
 
+_______________________________________________________
+
 **Navigasi Menu** : Digunakan untuk menyembunyikan menu yang lebih besar dan kompleks
 ![Screenshot 4](assets/image/Sc04.png)
+
+_______________________________________________________
 
 **Halaman Profile** : Digunakan untuk menampilkan informasi tentang pengguna, seperti data pribadi, preferensi, dan aktivitas mereka.
 ![Screenshot 5](assets/image/Sc05.png)
